@@ -1,0 +1,175 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+    text-align: center;
+	background-image: url(../img/circuitry-3163436.png);
+    background-position: center;
+    background-size: 120%;
+}
+
+body::after {
+	content: '';
+    position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+    opacity: 0.87;
+    background-color: #fff;
+    z-index: -1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .main-box {
+	position: relative;
+	width: 1000px;
+	height: 300px;
+	border-radius: 8px;
+	background-color: rgba(255, 255, 255, 0.5);
+	box-shadow: 0 5px 30px rgb(31, 31, 31);
+}
+
+.quote-header {
+	position: absolute;
+	top: 10%;
+	margin: 0 40px;
+	text-align: center;
+	font-size: 40px;
+	z-index: 100;
+	font-weight: 400;
+}
+
+.fa-quote-left {
+	font-size: 60px;
+	margin-right: 10px;
+}
+
+.quote-author {
+	position: absolute;
+	top: 55%;
+	width: 100%;
+	text-align: center;
+	font-size: 32px;
+	font-style: italic;
+}
+
+.button {
+	position: absolute;
+	bottom: 7%;
+	border: none;
+	border-radius: 8px;
+	padding: 10px 30px;
+	cursor: pointer;
+	font-size: 22px;
+	box-shadow: 0 5px 5px rgb(100, 100, 100);
+	color: #fff;
+	background-color: #333;
+    transition: transform .3s;
+}
+
+.button:hover {
+    transform: scale(1.05);
+}
+
+.social-media {
+	left: 4%;
+    transition: color .2s;
+}
+
+.social-media:hover {
+    color: #1da1f2;
+}
+
+.quote-btn {
+	right: 4%;
+} */
